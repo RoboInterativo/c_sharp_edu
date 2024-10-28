@@ -1,0 +1,17 @@
+C:\Users\Administrator\c_sharp_edu\TimerWinForm\obj\Debug\net8.0-windows\TimerWinForm.Form1.resources
+C:\Users\Administrator\c_sharp_edu\TimerWinForm\obj\Debug\net8.0-windows\TimerWinForm.csproj.GenerateResource.cache
+C:\Users\Administrator\c_sharp_edu\TimerWinForm\obj\Debug\net8.0-windows\TimerWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\c_sharp_edu\TimerWinForm\obj\Debug\net8.0-windows\TimerWinForm.AssemblyInfoInputs.cache
+C:\Users\Administrator\c_sharp_edu\TimerWinForm\obj\Debug\net8.0-windows\TimerWinForm.AssemblyInfo.cs
+C:\Users\Administrator\c_sharp_edu\TimerWinForm\obj\Debug\net8.0-windows\TimerWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\c_sharp_edu\TimerWinForm\obj\Debug\net8.0-windows\TimerWinForm.sourcelink.json
+C:\Users\Administrator\c_sharp_edu\TimerWinForm\bin\Debug\net8.0-windows\TimerWinForm.exe
+C:\Users\Administrator\c_sharp_edu\TimerWinForm\bin\Debug\net8.0-windows\TimerWinForm.deps.json
+C:\Users\Administrator\c_sharp_edu\TimerWinForm\bin\Debug\net8.0-windows\TimerWinForm.runtimeconfig.json
+C:\Users\Administrator\c_sharp_edu\TimerWinForm\bin\Debug\net8.0-windows\TimerWinForm.dll
+C:\Users\Administrator\c_sharp_edu\TimerWinForm\bin\Debug\net8.0-windows\TimerWinForm.pdb
+C:\Users\Administrator\c_sharp_edu\TimerWinForm\obj\Debug\net8.0-windows\TimerWinForm.dll
+C:\Users\Administrator\c_sharp_edu\TimerWinForm\obj\Debug\net8.0-windows\refint\TimerWinForm.dll
+C:\Users\Administrator\c_sharp_edu\TimerWinForm\obj\Debug\net8.0-windows\TimerWinForm.pdb
+C:\Users\Administrator\c_sharp_edu\TimerWinForm\obj\Debug\net8.0-windows\TimerWinForm.genruntimeconfig.cache
+C:\Users\Administrator\c_sharp_edu\TimerWinForm\obj\Debug\net8.0-windows\ref\TimerWinForm.dll
