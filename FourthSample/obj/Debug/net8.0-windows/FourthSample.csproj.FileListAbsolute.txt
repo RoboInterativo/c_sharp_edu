@@ -1,0 +1,17 @@
+C:\Users\Administrator\c_sharp_edu\FourthSample\bin\Debug\net8.0-windows\FourthSample.exe
+C:\Users\Administrator\c_sharp_edu\FourthSample\bin\Debug\net8.0-windows\FourthSample.deps.json
+C:\Users\Administrator\c_sharp_edu\FourthSample\bin\Debug\net8.0-windows\FourthSample.runtimeconfig.json
+C:\Users\Administrator\c_sharp_edu\FourthSample\bin\Debug\net8.0-windows\FourthSample.dll
+C:\Users\Administrator\c_sharp_edu\FourthSample\bin\Debug\net8.0-windows\FourthSample.pdb
+C:\Users\Administrator\c_sharp_edu\FourthSample\obj\Debug\net8.0-windows\FourthSample.Form1.resources
+C:\Users\Administrator\c_sharp_edu\FourthSample\obj\Debug\net8.0-windows\FourthSample.csproj.GenerateResource.cache
+C:\Users\Administrator\c_sharp_edu\FourthSample\obj\Debug\net8.0-windows\FourthSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\c_sharp_edu\FourthSample\obj\Debug\net8.0-windows\FourthSample.AssemblyInfoInputs.cache
+C:\Users\Administrator\c_sharp_edu\FourthSample\obj\Debug\net8.0-windows\FourthSample.AssemblyInfo.cs
+C:\Users\Administrator\c_sharp_edu\FourthSample\obj\Debug\net8.0-windows\FourthSample.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\c_sharp_edu\FourthSample\obj\Debug\net8.0-windows\FourthSample.sourcelink.json
+C:\Users\Administrator\c_sharp_edu\FourthSample\obj\Debug\net8.0-windows\FourthSample.dll
+C:\Users\Administrator\c_sharp_edu\FourthSample\obj\Debug\net8.0-windows\refint\FourthSample.dll
+C:\Users\Administrator\c_sharp_edu\FourthSample\obj\Debug\net8.0-windows\FourthSample.pdb
+C:\Users\Administrator\c_sharp_edu\FourthSample\obj\Debug\net8.0-windows\FourthSample.genruntimeconfig.cache
+C:\Users\Administrator\c_sharp_edu\FourthSample\obj\Debug\net8.0-windows\ref\FourthSample.dll
